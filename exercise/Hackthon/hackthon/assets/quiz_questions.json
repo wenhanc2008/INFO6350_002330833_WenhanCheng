@@ -1,0 +1,62 @@
+[
+    {
+      "question": "What is the default return type of the `main()` method in Dart?",
+      "type": "multiple_choice",
+      "options": ["void", "int", "String", "double"],
+      "answer": [0]
+    },
+    {
+      "question": "Dart supports both static and dynamic typing.",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "answer": [0]
+    },
+    {
+      "question": "Which of the following are valid data types in Dart?",
+      "type": "multiple_choice_multiple_answers",
+      "options": ["int", "byte", "double", "String"],
+      "answer": [0, 2, 3]
+    },
+    {
+      "question": "Which keyword is used to define a value that cannot be changed once set in Dart?",
+      "type": "multiple_choice",
+      "options": ["final", "const", "static", "var"],
+      "answer": [0]
+    },
+    {
+      "question": "In Dart, `final` variables must be initialized at the time of declaration.",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "answer": [0]
+    },
+    {
+      "question": "Which of the following are primitive types in Dart?",
+      "type": "multiple_choice_multiple_answers",
+      "options": ["int", "char", "double", "bool"],
+      "answer": [0, 2, 3]
+    },
+    {
+      "question": "In Dart, `const` is used to define compile-time constants.",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "answer": [0]
+    },
+    {
+      "question": "What is the output of the following Dart code: `var x = 'Dart'; print(x.runtimeType);`?",
+      "type": "multiple_choice",
+      "options": ["String", "int", "List", "Object"],
+      "answer": [0]
+    },
+    {
+      "question": "Which of the following can be used to declare a variable with a type inferred by Dart?",
+      "type": "multiple_choice",
+      "options": ["var", "int", "String", "final"],
+      "answer": [0]
+    },
+    {
+      "question": "Which of the following methods can be used to shuffle a list in Dart?",
+      "type": "multiple_choice",
+      "options": ["shuffle()", "randomize()", "sort()", "reverse()"],
+      "answer": [0]
+    }
+  ]
