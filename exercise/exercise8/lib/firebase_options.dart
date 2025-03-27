@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAT0Tth9RXraSiSdBdZy8CUaXLFrShm9i0',
+    apiKey: '',
     appId: '1:964981185799:web:a9f95586d1b7185194b9a2',
     messagingSenderId: '964981185799',
     projectId: 'fir-flutter-codelab-c8d65',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDgowX99kGQAFTOtkEOFJmONo3JFiytiPs',
+    apiKey: '',
     appId: '1:964981185799:android:05766e86ca0d8a8794b9a2',
     messagingSenderId: '964981185799',
     projectId: 'fir-flutter-codelab-c8d65',
